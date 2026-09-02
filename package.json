@@ -1,6 +1,0 @@
-{
-	"devDependencies": {
-		"@openai/create-sites": "0.2.0",
-		"@clack/prompts": "^1.7.0"
-	}
-}
